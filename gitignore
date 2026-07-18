@@ -1,0 +1,4 @@
+# build outputs - users build these themselves
+MatrixRain.scr
+MatrixRainSettings.exe
+*.log
